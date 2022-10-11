@@ -1,0 +1,22 @@
+{
+  "name": "min5219-stat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngmin5219/min5219-stat.git"
+  },
+  "bin": {
+    "min-stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngmin5219/min5219-stat/issues"
+  },
+  "homepage": "https://github.com/youngmin5219/min5219-stat#readme"
+}
