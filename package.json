@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/youngmin5219/min5219-stat/issues"
   },
-  "homepage": "https://github.com/youngmin5219/min5219-stat#readme"
+  "homepage": "https://github.com/youngmin5219/min5219-stat#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
